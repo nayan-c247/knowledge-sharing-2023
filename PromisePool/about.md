@@ -1,0 +1,1 @@
+A "Promise Pool" is a concept in JavaScript that involves managing multiple promises concurrently. It allows you to limit the number of simultaneous asynchronous operations to prevent overwhelming a system, especially when dealing with limited resources or making requests to external APIs.
